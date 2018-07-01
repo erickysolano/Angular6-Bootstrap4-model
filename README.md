@@ -4,18 +4,20 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Dicas de comandos para Instalação/Configuração
 
-criando projeto com sistema de rotas
+criando projeto com sistema de rotas:
+
 	ng new Angular6-Bootstrap4-model --routing
 
-rodando app para verificar instalacao
-	dentro do novo diretorio
+rodando app para verificar instalacao, dentro do novo diretorio:
+
 		ng serve --open		->> '--open' opcional para abrir navegador
 		
-parando execucao do servidor/app
+parando execucao do servidor/app:
+
 	control + c
 	S
 	
-instalando/configurando Bootstrap
+instalando/configurando Bootstrap:
 	1.Antes:
 		observe q dentro do diretorio 'ng_modules' não existe a pasta 'bootstrap'
 	
