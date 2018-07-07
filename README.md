@@ -18,6 +18,7 @@ parando execucao do servidor/app:
 	S
 	
 instalando/configurando Bootstrap:
+
 	1.Antes:
 		observe q dentro do diretorio 'ng_modules' não existe a pasta 'bootstrap'
 	
@@ -59,10 +60,27 @@ instalndo/configurando jQuery
 		na utilizacao de 'dropdown' por exemplo
 		
 	
-criando componente com Angular/CLI
+criando componente com Angular/CLI:
+
 	ng genarete component my-new-component
 	ng g c my-new-component
 
-	
-	
-	
+clonando projeto do github:
+
+	git clone https://github.com/erickysolano/Angular6-Bootstrap4-model.git
+	npm install
+	npm install -g @angular/cli		>> quando o angular/cli não estiver instalado
+	ng serve --open
+
+Referencias:
+
+	Youtube: 
+		- Curso de Angular - Loiane Groner
+		https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
+
+	Udemy: 
+		- Curso Angular 4 + Login com Firebase e Bootstrap 4
+
+	Outros:
+		https://pt.linkedin.com/pulse/angular-5-com-bootstrap-4-um-simples-starter-fabio-godoy
+
