@@ -46,7 +46,8 @@ instalando/configurando Bootstrap:
 			  "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
 		
-instalndo/configurando jQuery
+instalndo/configurando jQuery:
+
 	npm install --save jquery
 	
 	dentro do arquivo 'angular.json'
